@@ -4,7 +4,7 @@ import Raffle from './components/Raffle/Raffle';
 
 function App() {
   return (
-   <div>
+   <div className='principal-container'>
      <Raffle/>
    </div>
   );
